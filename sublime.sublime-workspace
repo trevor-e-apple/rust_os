@@ -519,17 +519,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": ".gitignore",
-			"settings":
-			{
-				"buffer_size": 8,
-				"line_ending": "Unix"
-			},
-			"undo_stack":
-			[
-			]
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -728,10 +717,12 @@
 	},
 	"expanded_folders":
 	[
-		"/F/GitHub/rust_os"
+		"/Users/trevorapple/Code/rust_os"
 	],
 	"file_history":
 	[
+		"/Users/trevorapple/Code/rust_os/sublime.sublime-project",
+		"/Users/trevorapple/Code/rust_os/.gitignore",
 		"/F/GitHub/rust_os/rustfmt.toml",
 		"/F/GitHub/rust_os/rls.toml",
 		"/F/GitHub/rust_os/src/main.rs",
@@ -857,9 +848,7 @@
 		"/F/GitHub/Illu/api_server/app/models/forgot_password_reset.py",
 		"/F/GitHub/Illu/api_server/tests/test_app/test_forgot_password.py",
 		"/F/GitHub/Illu/api_server/app/services/session_service.py",
-		"/F/GitHub/Illu/api_server/app/handlers/auth/authentication.py",
-		"/F/GitHub/Illu/api_server/app/handlers/user/user_auth.py",
-		"/F/GitHub/Illu/api_server/app/handlers/organization/org_auth.py"
+		"/F/GitHub/Illu/api_server/app/handlers/auth/authentication.py"
 	],
 	"find":
 	{
@@ -898,38 +887,6 @@
 		{
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": ".gitignore",
-					"selected": true,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 8,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								8
-							]
-						],
-						"settings":
-						{
-							"git_gutter_is_enabled": true,
-							"lsp_uri": "file:///F:/GitHub/rust_os/.gitignore",
-							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"stack_multiselect": false,
-					"type": "text"
-				}
 			]
 		}
 	],
